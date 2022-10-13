@@ -1,0 +1,9 @@
+name = "nullbug"
+main = "src/index.ts"
+compatibility_date = "2022-10-13"
+
+[[ d1_databases ]]
+binding = "DB" # i.e. available in your Worker on env.DB
+database_name = "nullbug"
+database_id = "e3facf04-c88b-4972-b98b-d8020bb53b1a"
+preview_database_id = "e3facf04-c88b-4972-b98b-d8020bb53b1a"
